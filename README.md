@@ -14,6 +14,7 @@ npm run serve
 ```
 npm run build
 ```
+หลังจาก npm run serve ให้ไปที่ browser และใส่ localhost:8080 ที่ช่อง url ก็จะได้หน้าเว็ป
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
