@@ -1,0 +1,61 @@
+{"payment":[{
+    "date": "01-01-2000",
+    "actions": "pay dota plus",
+    "amount": 500 ,
+    "status": "รายจ่าย"
+},
+{
+    "date": "02-01-2000",
+    "actions": "ซื้อข้าว",
+    "amount": 500 ,
+    "status": "รายจ่าย"
+},
+{
+    "date": "03-01-2000",
+    "actions": "แม่ให้",
+    "amount": 100000 ,
+    "status": "รายรับ"
+},
+{
+    "date": "04-01-2000",
+    "actions": "ตังหาย",
+    "amount": 50000 ,
+    "status": "รายจ่าย"
+},
+{
+    "date": "05-01-2000",
+    "actions": "แจกเงิน",
+    "amount": 2000 ,
+    "status": "รายจ่าย"
+},
+{
+    "date": "06-01-2000",
+    "actions": "เก็บตังได้",
+    "amount": 5000 ,
+    "status": "รายรับ"
+},
+{
+    "date": "07-01-2000",
+    "actions": "pay dota plus",
+    "amount": 5050 ,
+    "status": "รายจ่าย"
+},
+{
+    "date": "08-01-2000",
+    "actions": "ซื้อสกิน",
+    "amount": 1000 ,
+    "status": "รายจ่าย"
+},
+{
+    "date": "09-01-2000",
+    "actions": "ซื้อข้าว",
+    "amount": 20,
+    "status": "รายจ่าย"
+},
+{
+    "date": "10-01-2000",
+    "actions": "ให้เพื่อนยืม",
+    "amount": 5000 ,
+    "status": "รายจ่าย"
+}
+]}

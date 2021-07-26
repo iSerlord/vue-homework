@@ -1,8 +1,8 @@
 # vue-homework
 
-## Project setup
+## Project setup (ก่อนรัน)
 ```
-npm install
+npm install 
 ```
 
 ### Compiles and hot-reloads for development
