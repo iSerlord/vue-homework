@@ -181,7 +181,7 @@ export default {
   border-collapse: collapse;
   width: 70%;
   margin-top: 1em;
-  margin-bottom: 3em;
+  margin-bottom: 1em;
   font-size: 20px;
   background-color: white;
 }
@@ -199,6 +199,7 @@ td {
 
 .span1 {
   padding: 50px;
+  padding-bottom: 0px;
   color: #f3deca;
   font-size: 26px;
   font-family: "Prompt", sans-serif;
